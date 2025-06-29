@@ -1,70 +1,48 @@
-# Amber Boudreau
+Amber Boudreau
+I build stuff. Break it. Then build it better.
 
-I build things. I break them. Then I build them better.
+I’m self-taught and curious to a fault — I don’t wait for permission, and failure doesn’t scare me. I learn by doing, debugging, and doing it all again until it works.
 
-Self-taught and surgically curious — I don’t wait for permission, and I don’t fear failure. I build from the ashes. Every tool, technique, and system I know was earned through doing, debugging, and doing again.
+🔧 What I’m Working On
+The Solution Desk
+Building tech that just works — accessible tools that solve real problems for real people.
 
----
+Process Optimization App
+Helping small businesses save time and money with smarter workflows.
 
-### 🔧 Current Projects
+Job Application Bot
+Automating resumes and cover letters so you can focus on landing the job.
 
-- **The Solution Desk**  
-  Accessible tech that just works. Designed to solve real-world pain points for people, not personas.
+File Organizer App
+A powerful desktop tool for sorting, detecting duplicates, and managing files fast.
 
-- **Process Optimization App**  
-  Workflow automation for small businesses tired of wasting time and money.
-
-- **Values-Based Parenting App**  
-  Raising good humans with real-life skills that matter.
-
-- **Job Application Bot**  
-  Builds a master resume from real-world documents, finds matching jobs, generates tailored applications, and emails a summary with attachments.
-
-- **AI Therapy Assistant**  
-  A GPT-powered support system that walks through worksheets, sends session reminders, and helps unpack identity and behavioral patterns.
-
-- **File Organizer App**  
-  Desktop tool with advanced hashing, duplicate detection, and multithreaded file management.
-
----
-
-### 🛠 Tech Stack
-
-**Languages & Frameworks**  
+🛠 What I Use
+Languages & Frameworks
 JavaScript · React · Node.js · Python
 
-**Databases & Tools**  
+Databases & Tools
 Firebase · Supabase · MongoDB
 
-**Environment**  
+Environment
 Linux · Git · Replit · VSCode · Bash · Armbian · Kali Linux
 
-**AI & Developer Tools**  
+AI & Developer Tools
 OpenAI API · Windsurf · Codeium · WakaTime · CodersRank · CodeTime
 
----
+📈 How I Track My Work
+I don’t just track hours — I look at focus, flow, and friction:
 
-### 📈 Developer Tracking
+WakaTime Profile
 
-I track more than time — I analyze focus, friction, and flow:
-- [WakaTime Profile](https://wakatime.com/@aboudreau87)
-- [Stack Overflow](https://stackoverflow.com/users/30355852/amber)
+Stack Overflow
 
----
+🧠 My Motto
+“I build from the ashes — failure’s just blueprint 2.0.”
+Where chaos meets Git commit.
 
-### 🧠 Personal Motto
+📬 Reach Out
+📫 info@thesolutiondesk.ca
+🌐 thesolutiondesk.ca
+🧬 ORCID
 
-> "I build from the ashes — failure is just part of blueprint 2.0."  
-> *Where chaos meets Git commit.*
-
----
-
-### 📬 Contact & Links
-
-📫 [info@thesolutiondesk.ca](mailto:info@thesolutiondesk.ca)  
-🌐 [thesolutiondesk.ca](https://thesolutiondesk.ca)  
-🧬 [ORCID](https://orcid.org/0009-0002-1765-437X)
-
----
-
-**Let’s build something that actually works.**
+Let’s build something that actually works.
