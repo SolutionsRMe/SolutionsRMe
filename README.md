@@ -88,6 +88,14 @@ I offer:
 Let’s work together → [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)
 
 ---
+Sponsorship
+If you find this project helpful, please consider supporting its development!
+
+Your sponsorship helps cover costs and enables me to dedicate more time improving and maintaining this repository.
+
+[![Sponsor](https://img.shields.io/badge/sponsor-❤️-red?style=flat&logo=Gitponsors/your-github-username your support! 🙏
+
+---
 
 ## 🛡 Security & Responsible Disclosure
 
