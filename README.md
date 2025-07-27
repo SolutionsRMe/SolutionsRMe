@@ -7,6 +7,22 @@
   <strong>Self-taught developer · Automation advocate · Chaos-tamer</strong>
 </p>
 
+<!-- BADGES -->
+<p align="center">
+  <a href="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/actions/workflows/ci.yml">
+    <img src="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/actions/workflows/ci.yml/badge.svg" alt="Build Status">
+  </a>
+  <a href="https://codecov.io/gh/TheSolutionDeskAndCompany/TheSolutionDesk">
+    <img src="https://img.shields.io/codecov/c/github/TheSolutionDeskAndCompany/TheSolutionDesk" alt="Coverage">
+  </a>
+  <a href="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/TheSolutionDeskAndCompany/TheSolutionDesk" alt="License">
+  </a>
+  <a href="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/releases/latest">
+    <img src="https://img.shields.io/github/v/release/TheSolutionDeskAndCompany/TheSolutionDesk" alt="Release">
+  </a>
+</p>
+
 <!-- STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheSolutionDeskAndCompany&show_icons=true&theme=transparent" alt="GitHub stats" />
