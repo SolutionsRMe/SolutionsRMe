@@ -1,201 +1,108 @@
-<!-- HERO -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/TheSolutionDeskAndCompany/main/avatar.png" width="120" alt="avatar"/>
-</p>
-<h1 align="center">👋 Hi, I'm Amber Boudreau</h1>
-<p align="center">
-  <strong>Self-taught developer · Automation advocate · Chaos-tamer</strong>
-</p>
+# 👋 Hi, I'm Amber Boudreau
+Self-taught developer · Automation advocate · Chaos-tamer  
+Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 
-<!-- BADGES -->
-<p align="center">
-  <a href="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/actions/workflows/ci.yml">
-    <img src="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/actions/workflows/ci.yml/badge.svg" alt="Build Status">
-  </a>
-  <a href="https://codecov.io/gh/TheSolutionDeskAndCompany/TheSolutionDesk">
-    <img src="https://img.shields.io/codecov/c/github/TheSolutionDeskAndCompany/TheSolutionDesk" alt="Coverage">
-  </a>
-  <a href="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/TheSolutionDeskAndCompany/TheSolutionDesk" alt="License">
-  </a>
-  <a href="https://github.com/TheSolutionDeskAndCompany/TheSolutionDesk/releases/latest">
-    <img src="https://img.shields.io/github/v/release/TheSolutionDeskAndCompany/TheSolutionDesk" alt="Release">
-  </a>
-</p>
-
-<!-- STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSolutionDeskAndCompany&show_icons=true&theme=transparent" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionDeskAndCompany&layout=compact&theme=transparent" alt="Top langs" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TheSolutionDeskAndCompany&theme=react-dark" alt="Activity graph" />
-</p>
-
-<!-- VISITOR BADGE -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/TheSolutionDeskAndCompany/count.svg" alt="Profile views" />
-</p>
-
-I build stuff. Break it. Then build it better.
-
-I'm relentlessly curious and stubborn in all the right ways. I learn by doing, debugging, and breaking things until something actually works — then making it better.
+> ⚡ I build tools that fix chaos.  
+> 🧩 Real-world automations for real people and small teams.
 
 ---
 
-## 📦 Badges
+## 🛠️ What I’m Building
 
-[![Replit](https://img.shields.io/badge/Replit-Project-blue?style=flat\&logo=replit)](https://replit.com/@TheSolutionDesk)
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=flat\&logo=GitHub)](https://github.com/sponsors/TheSolutionDeskAndCompany)
+### 🔧 Developer Tools & Automation
 
----
+- 🗃️ [OrganiserPro](https://github.com/TheSolutionDeskAndCompany/OrganiserPro) – Cross-platform CLI for organizing, renaming, deduplicating & categorizing files.  
+- 🤖 [AutoHired](https://github.com/TheSolutionDeskAndCompany/AutoHired) – AI-powered resume generator & auto job application bot.  
+- 🧠 [ResumeBot CLI](https://github.com/TheSolutionDeskAndCompany/myresumebuilder) – Offline resume & cover letter generator in Markdown & JSON.  
+- 🛸 [API Beacon](https://github.com/TheSolutionDeskAndCompany/api-beacon) – Terminal-based API uptime and latency monitor.  
+- 🧪 [ShellTasker](https://github.com/TheSolutionDeskAndCompany/shell-tasker) – Named, reusable CLI automations with logging & fallbacks.  
+- 🚀 [QuickDeploy CLI](https://github.com/TheSolutionDeskAndCompany/quickdeploy) – One-command deploy to Vercel/Netlify.
 
-## 🔧 What I’m Building
+### 🧩 Productivity & Accessibility
 
-### 🧩 The Solution Desk — Dev Tools & Automation for Real People
+- 🧘 [Focus Timer](https://github.com/TheSolutionDeskAndCompany/focus-timer) – Minimal, effective productivity timer in TypeScript.  
+- 📋 [Habit Harbor](https://github.com/TheSolutionDeskAndCompany/habit-harbor) – Simple habit tracker with visual streaks.  
+- 📓 [Markdown Notes](https://github.com/TheSolutionDeskAndCompany/markdown-notes) – Lightweight notes app with Markdown preview.  
+- 🧑‍🦯 [BlindBuddy](https://github.com/TheSolutionDeskAndCompany/blindbuddy) – Experimental assistant for blind & low-vision users.
 
-Tools that solve real-world problems, automate annoying tasks, and make developer workflows saner.
+<details>
+<summary>🚧 Coming Soon (click to expand)</summary>
 
-* **🛠️ Process Optimization App**
-  A no-code automation assistant for small businesses.
-  Automates repetitive ops using conditional logic and AI-enhanced workflows.
+- 🧰 SolutionDesk CLI Suite – Unified interface for file management, job tools, and Git automation.  
+- 🧠 AI-Assisted SOP Generator – Converts notes or recordings into clean, versioned SOPs.  
+- 🔐 Security Toolkit – Recon, token leak detection, endpoint fuzzing & CLI testing.  
+- 💼 Client Portal – Self-service dashboard for freelance projects, file drops & chatbot support.
 
-* **🤖 AutoHired**
-  AI-powered resume + cover letter generator — *and* an automated job application bot.
-  Uses OpenAI + browser automation to auto-fill forms, match keywords, and apply at scale.
-
-* **🧠 ResumeBot CLI**
-  A local-first command-line tool that generates tailored resumes and cover letters without needing internet access.
-  Outputs styled Markdown and JSON for reuse across jobs.
-
-* **🗃️ OrganiserPro**
-  Cross-platform CLI app that organizes, renames, deduplicates, and categorizes files in seconds.
-  Regex-powered and recursive with dry-run preview mode. Now supports zip extraction, duplicate hashing, and file fingerprinting.
-
-* **📡 API Beacon (experimental)**
-  A terminal-based API monitoring tool that tracks endpoint availability, latency, and status changes with CLI alerts.
-
-* **🧠 AutoAgent**
-  A local-first, modular GPT automation system for chaining shell actions, script execution, and Git workflows.
-  Works offline, integrates with your terminal, and responds to prompt logic or voice triggers.
-
-* **🧪 ShellTasker**
-  Create named, reusable CLI automations with logging, fallbacks, and dynamic arguments.
-  Think `make` meets Zapier.
-
-* **📤 QuickDeploy CLI**
-  One-command deploy for full-stack apps to Vercel or Netlify — scaffolds, commits, and ships in under 30 seconds.
-
-* **🧩 Windsurf Extension Toolkit**
-  Lightweight, automation-focused IDE plugin system.
-  Designed for embedded or local cloud use with Open VSX support.
+</details>
 
 ---
 
-## 🚧 Coming Soon
+<details>
+<summary>🧠 Tech Stack (click to expand)</summary>
 
-* **Client Portal + Automation Dashboard**
-  Self-service toolkit platform for freelance clients.
-  Includes project templates, secure file drop, and AI support bot.
-
-* **SolutionDesk CLI Suite**
-  Unified interface combining AutoHired, ShellTasker, File Organizer, and Git toolkit.
-
-* **AI-Assisted SOP Generator**
-  Converts process notes or recordings into clean, versioned Standard Operating Procedures.
-
-* **Security Toolkit**
-  CLI-ready suite for testing token leaks, recon, endpoint security, and basic auth flows.
-
----
-
-## 🧠 Tech Stack
-
-**Languages & Frameworks**
-JavaScript · TypeScript · Python · Bash · HTML/CSS · Markdown
+**Languages & Frameworks**  
+JavaScript · TypeScript · Python · Bash · HTML/CSS · Markdown  
 React · Node.js · Express · Flask · EJS · Shell scripting
 
-**Databases & Storage**
-MongoDB · Supabase · Firebase · PostgreSQL · SQLite
+**Databases & Storage**  
+MongoDB · Supabase · Firebase · PostgreSQL · SQLite  
 Mongoose · Prisma · Sequelize
 
-**Automation & Scripting**
-Puppeteer · Playwright · Selenium · Cron · GitHub Actions
-Python scripting · CLI tools · Web scraping · Linux cron jobs
+**Automation & Scripting**  
+Puppeteer · Playwright · Selenium · Cron · GitHub Actions  
+Python scripting · CLI tools · Web scraping
 
-**AI / ML / LLMs**
-OpenAI API · LangChain (light) · Prompt engineering
-Codeium · GPT agents · Shell + GPT integration
+**AI / ML / LLMs**  
+OpenAI API · LangChain · GPT agents · Codeium · Prompt engineering
 
-**DevOps & Infra**
-Linux (Kali, Armbian, Ubuntu) · Git · Docker · Replit · Netlify
-VSCode · Nginx · systemd · SSH · DNS config · Web server setup
+**DevOps & Infra**  
+Linux (Kali, Ubuntu, Armbian) · Docker · SSH · Netlify · Replit  
+VSCode · Git · systemd · Web server setup
 
-**Security & Hacking Tools**
-Burp Suite · FFUF · dirsearch · subfinder · amass
-Kali Linux · OWASP ZAP · JWT.io · Postman
-Basic XSS · IDOR · SSRF · recon scripting
+**Security & Hacking**  
+Burp Suite · FFUF · dirsearch · subfinder · OWASP ZAP · Postman  
+XSS · SSRF · IDOR · recon scripting · JWT · vulnerability disclosure
 
-**Productivity & Analytics**
-WakaTime · CodeTime · GitHub Insights · CodersRank
-Custom dashboards · Flow tracking tools
+**Other Tools**  
+Notion · Mailgun · SendGrid · Gist · GitHub Pages · Markdown automation
 
-**Other Tools & Platforms**
-Mailgun · SendGrid · Vercel · Heroku (legacy) · Gist · Notion
-Markdown automation · GitHub Pages · OpenVSX · URL shorteners
+</details>
 
 ---
 
 ## 💰 Hire Me — Freelance & Code Reviews
 
-Need help with dev tooling, automation, or a fresh set of eyes on your code?
+**Need help with:**
+- 🔐 Security-aware code reviews (Node.js, Python, CLI tools, AI workflows)
+- 🤖 Workflow automation (scripts, bots, integrations)
+- 🧪 Debugging & performance tuning
+- 🧠 GPT agent dev & prompt engineering
+- 🧰 Building lean toolkits for founders, freelancers & small businesses
 
-I offer:
-
-* 🔐 **Security-aware code reviews** (Node.js, Python, CLI tools, AI workflows)
-* 🤖 **Workflow automation consulting** (scripts, bots, process tools)
-* 🧪 **Debugging & logic analysis** (clean up chaos, improve performance)
-* 🧠 **AI integration + prompt engineering** (safe, user-ready apps)
-* 🧰 **Startup toolkits** (resume tools, deploy tools, file automation)
-* 🌐 **Browser automation + API glue** (Notion, Firebase, LinkedIn, dashboards)
-
-Let’s work together → [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)
+📩 Reach out → [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)
 
 ---
 
 ## 💖 Sponsorship
 
-If you find this project helpful, please consider supporting its development.
-Your sponsorship helps cover costs and enables me to dedicate more time to building and improving.
+If you’ve found anything here helpful or inspiring, consider sponsoring me.  
+Your support helps me dedicate more time to open-source tools and community dev work.
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-❤️-red?style=flat\&logo=GitHub)](https://github.com/sponsors/TheSolutionDeskAndCompany)
-
----
-
-## 🛡 Security & Responsible Disclosure
-
-I take security seriously and welcome vulnerability reports via
-[security@thesolutiondesk.ca](mailto:security@thesolutiondesk.ca).
-
-For details, see my [`SECURITY.md`](https://github.com/TheSolutionDeskAndCompany/security-policy) and
-[security.txt](https://thesolutiondesk.ca/.well-known/security.txt).
-
-I aim to respond within 72 hours and will work with you to responsibly fix and disclose any confirmed issues.
+👉 [Sponsor Me on GitHub](https://github.com/sponsors/TheSolutionDeskAndCompany)
 
 ---
 
-## 📬 Contact
+<details>
+<summary>📬 Contact (click to expand)</summary>
 
-📩 General: [info@thesolutiondesk.ca](mailto:info@thesolutiondesk.ca)
-💼 Freelance / Collab: [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)
-🧰 Support: [support@thesolutiondesk.ca](mailto:support@thesolutiondesk.ca)
-🔐 Security / Vulnerability Reports: [security@thesolutiondesk.ca](mailto:security@thesolutiondesk.ca)
+- 📧 General: [info@thesolutiondesk.ca](mailto:info@thesolutiondesk.ca)  
+- 💼 Freelance / Collab: [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)  
+- 🔐 Security Reports: [security@thesolutiondesk.ca](mailto:security@thesolutiondesk.ca)  
+- 🌐 Website: [thesolutiondesk.ca](https://thesolutiondesk.ca)  
+- 🧠 Instagram: [@the.solution.desk](https://instagram.com/the.solution.desk)
+
+</details>
 
 ---
 
-Let’s build cool stuff.
-Then break it.
-Then build it better. 💥
->>>>>>> origin/main
+Let’s build cool stuff. Break it. Then build it better. 💥
