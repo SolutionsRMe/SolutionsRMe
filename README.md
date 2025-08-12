@@ -10,7 +10,6 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 ## 🛠️ What I’m Building
 
 ### 🔧 Developer Tools & Automation
-
 - 🗃️ [OrganiserPro](https://github.com/TheSolutionDeskAndCompany/OrganiserPro) – Cross-platform CLI for organizing, renaming, deduplicating & categorizing files.  
 - 🤖 [AutoHired](https://github.com/TheSolutionDeskAndCompany/AutoHired) – AI-powered resume generator & auto job application bot.  
 - 🧠 [ResumeBot CLI](https://github.com/TheSolutionDeskAndCompany/myresumebuilder) – Offline resume & cover letter generator in Markdown & JSON.  
@@ -19,7 +18,6 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 - 🚀 [QuickDeploy CLI](https://github.com/TheSolutionDeskAndCompany/quickdeploy) – One-command deploy to Vercel/Netlify.
 
 ### 🧩 Productivity & Accessibility
-
 - 🧘 [Focus Timer](https://github.com/TheSolutionDeskAndCompany/focus-timer) – Minimal, effective productivity timer in TypeScript.  
 - 📋 [Habit Harbor](https://github.com/TheSolutionDeskAndCompany/habit-harbor) – Simple habit tracker with visual streaks.  
 - 📓 [Markdown Notes](https://github.com/TheSolutionDeskAndCompany/markdown-notes) – Lightweight notes app with Markdown preview.  
@@ -37,8 +35,37 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 
 ---
 
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,tailwind,vite&perline=10" />
+</p>
+
+### 🛠️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,bash&perline=10" />
+</p>
+
+### 🗄️ Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,firebase,supabase,prisma&perline=10" />
+</p>
+
+### ⚡ Automation, AI & Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,openai&perline=10" />
+</p>
+
+### 🖥️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vercel,netlify,replit,vscode&perline=10" />
+</p>
+
+---
+
 <details>
-<summary>🧠 Tech Stack (click to expand)</summary>
+<summary>📋 Detailed Tech List (click to expand)</summary>
 
 **Languages & Frameworks**  
 JavaScript · TypeScript · Python · Bash · HTML/CSS · Markdown  
@@ -71,7 +98,6 @@ Notion · Mailgun · SendGrid · Gist · GitHub Pages · Markdown automation
 ---
 
 ## 💰 Hire Me — Freelance & Code Reviews
-
 **Need help with:**
 - 🔐 Security-aware code reviews (Node.js, Python, CLI tools, AI workflows)
 - 🤖 Workflow automation (scripts, bots, integrations)
@@ -84,7 +110,6 @@ Notion · Mailgun · SendGrid · Gist · GitHub Pages · Markdown automation
 ---
 
 ## 💖 Sponsorship
-
 If you’ve found anything here helpful or inspiring, consider sponsoring me.  
 Your support helps me dedicate more time to open-source tools and community dev work.
 
@@ -102,6 +127,19 @@ Your support helps me dedicate more time to open-source tools and community dev 
 - 🧠 Instagram: [@the.solution.desk](https://instagram.com/the.solution.desk)
 
 </details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheSolutionDeskAndCompany&show_icons=true&theme=radical&v={{CACHE_BUSTER}}" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSolutionDeskAndCompany&theme=radical&v={{CACHE_BUSTER}}" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionDeskAndCompany&layout=compact&theme=radical&v={{CACHE_BUSTER}}" />
+</p>
 
 ---
 
