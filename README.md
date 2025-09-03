@@ -30,9 +30,6 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 ### 🔧 Developer Tools & Automation
 - 🗃️ [OrganiserPro](https://github.com/TheSolutionDeskAndCompany/OrganiserPro)  
   Cross-platform CLI for organizing, renaming, deduplicating & categorizing files.  
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/OrganiserPro/main/assets/demo.gif" alt="OrganiserPro demo" width="700"/>
-  </div>
 
 - 🤖 [AutoHired](https://github.com/TheSolutionDeskAndCompany/AutoHired)  
   AI-powered resume generator & auto job application bot.
@@ -67,33 +64,51 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 </details>
 
 ---
-
 ## ⚙️ Tech Stack
 
 ### 🖥️ Frontend
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,tailwind,vite&perline=10" />
 </p>
+<p align="center"><i>Modern SPAs · responsive design · UI frameworks · rapid prototyping</i></p>
+
+---
 
 ### 🛠️ Backend & APIs
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,bash&perline=10" />
 </p>
+<p align="center"><i>REST APIs · microservices · CLI tooling · server-side scripting</i></p>
+
+---
 
 ### 🗄️ Databases & Storage
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,firebase,supabase,prisma&perline=10" />
 </p>
+<p align="center"><i>Relational + NoSQL DBs · ORMs · cloud storage · real-time sync</i></p>
+
+---
 
 ### ⚡ Automation, AI & Testing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,openai&perline=10" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,openai,selenium,pytest,jest,postman&perline=10" />
+</p>
+<p align="center">
+  CI/CD pipelines · scripting & bots · cron jobs · AI agents & prompt engineering ·  
+  web automation (Puppeteer/Playwright/Selenium) · automated testing (Jest/Pytest/Postman)
 </p>
 
+---
+
 ### 🖥️ DevOps & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vercel,netlify,replit,vscode&perline=10" />
 </p>
+<p align="center"><i>Containerization · server setup · deployments · CI/CD · developer workflows</i></p>
+
+</div>
+
 
 <details>
 <summary>📋 Detailed Tech List (click to expand)</summary>
