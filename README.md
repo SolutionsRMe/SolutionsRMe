@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/TheSolutionDeskAndCompany/main/assets/Amber_Boudreau_GitHub_Banner_Final_Under1MB.png" alt="Amber Boudreau - Chaos-Tamer - The Solution Desk"/>
+  <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/TheSolutionDeskAndCompany/main/assets/GHprofile.png" alt="Amber Boudreau - Chaos-Tamer - The Solution Desk"/>
 </p>
 
 ---
@@ -9,6 +9,7 @@
 [![Hire Me](https://img.shields.io/badge/Freelance-Available-brightgreen?style=for-the-badge&logo=upwork)](mailto:amber@thesolutiondesk.ca)
 [![Sponsor](https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/TheSolutionDeskAndCompany)
 [![Website](https://img.shields.io/badge/Website-thesolutiondesk.ca-blue?style=for-the-badge&logo=google-chrome)](https://thesolutiondesk.ca)
+![Visitors](https://komarev.com/ghpvc/?username=TheSolutionDeskAndCompany&color=blue&style=for-the-badge)
 
 </div>
 
@@ -27,15 +28,29 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 ## 🛠️ What I’m Building
 
 ### 🔧 Developer Tools & Automation
-- 🗃️ [OrganiserPro](https://github.com/TheSolutionDeskAndCompany/OrganiserPro) – Cross-platform CLI for organizing, renaming, deduplicating & categorizing files.  
-- 🤖 [AutoHired](https://github.com/TheSolutionDeskAndCompany/AutoHired) – AI-powered resume generator & auto job application bot.  
-- 🧠 [ResumeBot CLI](https://github.com/TheSolutionDeskAndCompany/myresumebuilder) – Offline resume & cover letter generator in Markdown & JSON.  
-- 🛸 [API Beacon](https://github.com/TheSolutionDeskAndCompany/api-beacon) – Terminal-based API uptime and latency monitor.  
-- 🧪 [ShellTasker](https://github.com/TheSolutionDeskAndCompany/shell-tasker) – Named, reusable CLI automations with logging & fallbacks.  
-- 🚀 [QuickDeploy CLI](https://github.com/TheSolutionDeskAndCompany/quickdeploy) – One-command deploy to Vercel/Netlify.
+- 🗃️ [OrganiserPro](https://github.com/TheSolutionDeskAndCompany/OrganiserPro)  
+  Cross-platform CLI for organizing, renaming, deduplicating & categorizing files.  
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/OrganiserPro/main/assets/demo.gif" alt="OrganiserPro demo" width="700"/>
+  </div>
+
+- 🤖 [AutoHired](https://github.com/TheSolutionDeskAndCompany/AutoHired)  
+  AI-powered resume generator & auto job application bot.
+
+- 🧠 [ResumeBot CLI](https://github.com/TheSolutionDeskAndCompany/myresumebuilder)  
+  Offline resume & cover letter generator in Markdown & JSON.  
+
+- 🛸 [API Beacon](https://github.com/TheSolutionDeskAndCompany/api-beacon)  
+  Terminal-based API uptime and latency monitor.  
+
+- 🧪 [ShellTasker](https://github.com/TheSolutionDeskAndCompany/shell-tasker)  
+  Named, reusable CLI automations with logging & fallbacks.  
+
+- 🚀 [QuickDeploy CLI](https://github.com/TheSolutionDeskAndCompany/quickdeploy)  
+  One-command deploy to Vercel/Netlify.  
 
 ### 🧩 Productivity & Accessibility
-- 🧘 [Focus Timer](https://github.com/TheSolutionDeskAndCompany/focus-timer) – Minimal, effective productivity timer in TypeScript.  
+- 🧘 [Focus Timer](https://github.com/TheSolutionDeskAndCompany/focus-timer) – Minimal productivity timer in TypeScript.  
 - 📋 [Habit Harbor](https://github.com/TheSolutionDeskAndCompany/habit-harbor) – Simple habit tracker with visual streaks.  
 - 📓 [Markdown Notes](https://github.com/TheSolutionDeskAndCompany/markdown-notes) – Lightweight notes app with Markdown preview.  
 - 🧑‍🦯 [BlindBuddy](https://github.com/TheSolutionDeskAndCompany/blindbuddy) – Experimental assistant for blind & low-vision users.
@@ -46,7 +61,68 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 - 🧰 SolutionDesk CLI Suite – Unified interface for file management, job tools, and Git automation.  
 - 🧠 AI-Assisted SOP Generator – Converts notes or recordings into clean, versioned SOPs.  
 - 🔐 Security Toolkit – Recon, token leak detection, endpoint fuzzing & CLI testing.  
-- 💼 Client Portal – Self-service dashboard for freelance projects, file drops & chatbot support.
+- 💼 Client Portal – Self-service dashboard for freelance projects, file drops & chatbot support.  
+- ✍️ Writing & Guides — honest, practical automation posts for small teams and solo builders *(coming soon)*
+
+</details>
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,tailwind,vite&perline=10" />
+</p>
+
+### 🛠️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,bash&perline=10" />
+</p>
+
+### 🗄️ Databases & Storage
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,firebase,supabase,prisma&perline=10" />
+</p>
+
+### ⚡ Automation, AI & Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,openai&perline=10" />
+</p>
+
+### 🖥️ DevOps & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vercel,netlify,replit,vscode&perline=10" />
+</p>
+
+<details>
+<summary>📋 Detailed Tech List (click to expand)</summary>
+
+**Languages & Frameworks**  
+JavaScript · TypeScript · Python · Bash · HTML/CSS · Markdown  
+React · Node.js · Express · Flask · EJS · Shell scripting  
+
+**Databases & Storage**  
+MongoDB · Supabase · Firebase · PostgreSQL · SQLite  
+Mongoose · Prisma · Sequelize  
+
+**Automation & Scripting**  
+Puppeteer · Playwright · Selenium · Cron · GitHub Actions  
+Python scripting · CLI tools · Web scraping  
+
+**AI / ML / LLMs**  
+OpenAI API · LangChain · GPT agents · Codeium · Prompt engineering  
+
+**DevOps & Infra**  
+Linux (Kali, Ubuntu, Armbian) · Docker · SSH · Netlify · Replit  
+VSCode · Git · systemd · Web server setup  
+
+**Security & Hacking**  
+Burp Suite · FFUF · dirsearch · subfinder · OWASP ZAP · Postman  
+XSS · SSRF · IDOR · recon scripting · JWT · vulnerability disclosure  
+
+**Other Tools**  
+Notion · Mailgun · SendGrid · Gist · GitHub Pages · Markdown automation  
 
 </details>
 
@@ -60,7 +136,9 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 - 🧠 GPT agent dev & prompt engineering  
 - 🧰 Lean toolkits for founders, freelancers & small businesses  
 
-📩 Email me → [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)
+<p align="center">
+  <b>⚡ Let’s talk → <a href="mailto:amber@thesolutiondesk.ca">amber@thesolutiondesk.ca</a></b>
+</p>
 
 ---
 
@@ -68,21 +146,40 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 If you’ve found anything here helpful or inspiring, consider sponsoring me.  
 Your support helps me dedicate more time to open-source tools and community dev work.
 
-👉 [Sponsor Me on GitHub](https://github.com/sponsors/TheSolutionDeskAndCompany)
+<p align="center">
+  <a href="https://github.com/sponsors/TheSolutionDeskAndCompany"><b>👉 Sponsor Me on GitHub</b></a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheSolutionDeskAndCompany&show_icons=true&theme=radical" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSolutionDeskAndCompany&theme=radical" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheSolutionDeskAndCompany&show_icons=true&theme=radical" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionDeskAndCompany&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
+<details>
+<summary>🏆 Achievements & Fun (click to expand)</summary>
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionDeskAndCompany&layout=compact&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TheSolutionDeskAndCompany&theme=radical&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies"/>
 </p>
+
+<!--
+  🐍 Contribution Snake
+  Enable the workflow first (see instructions), then uncomment the image below.
+  Workflow file: .github/workflows/snake.yml
+  Raw image URL points to the 'output' branch created by the workflow.
+-->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/TheSolutionDeskAndCompany/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p> -->
+
+</details>
 
 ---
 
-<p align="center">✨ Let’s build cool stuff. Break it. Then build it better. 💥</p>
+<p align="center">
+  ✨ Let’s build cool stuff. Break it. Then build it better. 💥
+</p>
