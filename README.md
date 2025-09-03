@@ -1,6 +1,23 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/TheSolutionDeskAndCompany/main/assets/Amber_Boudreau_GitHub_Banner_Final_Under1MB.png" alt="Amber Boudreau - Chaos-Tamer - The Solution Desk"/>
+</p>
+
+---
+
+<div align="center">
+
+[![Hire Me](https://img.shields.io/badge/Freelance-Available-brightgreen?style=for-the-badge&logo=upwork)](mailto:amber@thesolutiondesk.ca)
+[![Sponsor](https://img.shields.io/badge/Sponsor-❤-ff69b4?style=for-the-badge&logo=github)](https://github.com/sponsors/TheSolutionDeskAndCompany)
+[![Website](https://img.shields.io/badge/Website-thesolutiondesk.ca-blue?style=for-the-badge&logo=google-chrome)](https://thesolutiondesk.ca)
+
+</div>
+
+---
+
 # 👋 Hi, I'm Amber Boudreau
+
 Self-taught developer · Automation advocate · Chaos-tamer  
-Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
+Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her  
 
 > ⚡ I build tools that fix chaos.  
 > 🧩 Real-world automations for real people and small teams.
@@ -35,77 +52,15 @@ Founder of [The Solution Desk](https://thesolutiondesk.ca) · she/her
 
 ---
 
-## ⚙️ Tech Stack
-
-### 🖥️ Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,vue,tailwind,vite&perline=10" />
-</p>
-
-### 🛠️ Backend & APIs
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,bash&perline=10" />
-</p>
-
-### 🗄️ Databases & Storage
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite,firebase,supabase,prisma&perline=10" />
-</p>
-
-### ⚡ Automation, AI & Testing
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,openai&perline=10" />
-</p>
-
-### 🖥️ DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,vercel,netlify,replit,vscode&perline=10" />
-</p>
-
----
-
-<details>
-<summary>📋 Detailed Tech List (click to expand)</summary>
-
-**Languages & Frameworks**  
-JavaScript · TypeScript · Python · Bash · HTML/CSS · Markdown  
-React · Node.js · Express · Flask · EJS · Shell scripting
-
-**Databases & Storage**  
-MongoDB · Supabase · Firebase · PostgreSQL · SQLite  
-Mongoose · Prisma · Sequelize
-
-**Automation & Scripting**  
-Puppeteer · Playwright · Selenium · Cron · GitHub Actions  
-Python scripting · CLI tools · Web scraping
-
-**AI / ML / LLMs**  
-OpenAI API · LangChain · GPT agents · Codeium · Prompt engineering
-
-**DevOps & Infra**  
-Linux (Kali, Ubuntu, Armbian) · Docker · SSH · Netlify · Replit  
-VSCode · Git · systemd · Web server setup
-
-**Security & Hacking**  
-Burp Suite · FFUF · dirsearch · subfinder · OWASP ZAP · Postman  
-XSS · SSRF · IDOR · recon scripting · JWT · vulnerability disclosure
-
-**Other Tools**  
-Notion · Mailgun · SendGrid · Gist · GitHub Pages · Markdown automation
-
-</details>
-
----
-
 ## 💰 Hire Me — Freelance & Code Reviews
 **Need help with:**
-- 🔐 Security-aware code reviews (Node.js, Python, CLI tools, AI workflows)
-- 🤖 Workflow automation (scripts, bots, integrations)
-- 🧪 Debugging & performance tuning
-- 🧠 GPT agent dev & prompt engineering
-- 🧰 Building lean toolkits for founders, freelancers & small businesses
+- 🔐 Security-aware code reviews (Node.js, Python, CLI tools, AI workflows)  
+- 🤖 Workflow automation (scripts, bots, integrations)  
+- 🧪 Debugging & performance tuning  
+- 🧠 GPT agent dev & prompt engineering  
+- 🧰 Lean toolkits for founders, freelancers & small businesses  
 
-📩 Reach out → [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)
+📩 Email me → [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)
 
 ---
 
@@ -117,30 +72,17 @@ Your support helps me dedicate more time to open-source tools and community dev 
 
 ---
 
-<details>
-<summary>📬 Contact (click to expand)</summary>
-
-- 📧 General: [info@thesolutiondesk.ca](mailto:info@thesolutiondesk.ca)  
-- 💼 Freelance / Collab: [amber@thesolutiondesk.ca](mailto:amber@thesolutiondesk.ca)  
-- 🔐 Security Reports: [security@thesolutiondesk.ca](mailto:security@thesolutiondesk.ca)  
-- 🌐 Website: [thesolutiondesk.ca](https://thesolutiondesk.ca)  
-- 🧠 Instagram: [@the.solution.desk](https://instagram.com/the.solution.desk)
-
-</details>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheSolutionDeskAndCompany&show_icons=true&theme=radical&v={{CACHE_BUSTER}}" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSolutionDeskAndCompany&theme=radical&v={{CACHE_BUSTER}}" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TheSolutionDeskAndCompany&show_icons=true&theme=radical" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSolutionDeskAndCompany&theme=radical" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionDeskAndCompany&layout=compact&theme=radical&v={{CACHE_BUSTER}}" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSolutionDeskAndCompany&layout=compact&theme=radical" />
 </p>
 
 ---
 
-Let’s build cool stuff. Break it. Then build it better. 💥
+<p align="center">✨ Let’s build cool stuff. Break it. Then build it better. 💥</p>
