@@ -181,9 +181,6 @@ Your support helps me dedicate more time to open-source tools and community dev 
   <img src="https://github-profile-trophy.vercel.app/?username=TheSolutionDeskAndCompany&theme=radical&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TheSolutionDeskAndCompany/TheSolutionDeskAndCompany/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
 
 
 </details>
