@@ -2,61 +2,80 @@
   <img src="https://raw.githubusercontent.com/SolutionsRMe/SolutionsRMe/main/assets/GHprofile.png" alt="Amber · SolutionsRMe · Developer & Automation Advocate"/>
 </p>
 
----
-
 # 👋 Hi, I’m Amber  
 Self-taught developer · Automation advocate · Chaos-tamer  
 
-I turn messy problems into **lean, useful tools** — starting with small automations, then growing them into open-source projects.  
-
-⚡ When I’m not tinkering here, I’m building under [**The Solution Desk**](https://github.com/Solution-Desk), my org for larger, team-focused projects.  
+✨ Break things. Fix them. Build them better. ✨  
 
 ---
 
-## 🚀 Current Projects
-- 🗂 [**organiser-pro**](https://github.com/SolutionsRMe/organiser-pro) → cross-platform CLI for organizing & deduplicating files  
-- 🤖 [auto-hired](https://github.com/SolutionsRMe/auto-hired) → AI-powered resume generator & job application helper
-- 📓 [**markdown-notes**](https://github.com/SolutionsRMe/markdown-notes) → lightweight note-taking with Markdown preview  
-- 🌀 Follow me for more!
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/SolutionsRMe/organiser-pro">
+        <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=SolutionsRMe&repo=organiser-pro&theme=radical&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SolutionsRMe/auto-hired">
+        <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=SolutionsRMe&repo=auto-hired&theme=radical&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/SolutionsRMe/markdown-notes">
+        <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=SolutionsRMe&repo=markdown-notes&theme=radical&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/SolutionsRMe/microdemo-studio">
+        <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=SolutionsRMe&repo=microdemo-studio&theme=radical&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,nodejs,react,nextjs,vite,tailwind,flask,fastapi,express,postgresql,mongodb,sqlite,supabase,prisma,docker,linux,githubactions,playwright,cypress,selenium,openai&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,nodejs,react,nextjs,tailwind,flask,fastapi,express,postgres,mongodb,supabase,docker,linux,githubactions,selenium,openai&perline=10" />
 </p>
-<p align="center"><i>Automation-first builder: Python + JS/TS · CLIs & APIs (Flask/FastAPI/Express) · Modern frontends (React/Next) · Data (Postgres/Mongo/SQLite/Supabase/Prisma) · QA & browser automation (Playwright/Cypress/Selenium) · CI/CD & DevOps (Docker/GitHub Actions/Linux) · LLM integrations (OpenAI)</i></p>
-
-**Capabilities:** CLI tooling • Web automation • API design • Data modeling • Test automation • CI/CD hardening • Prompt/LLM integration
-
 
 ---
 
-## 📊 GitHub Highlights
+## ⚙️ What I Build
+- CLIs & APIs (Python/Node)  
+- Web & browser automation  
+- Data modeling & lightweight DBs  
+- CI/CD & DevOps tooling  
+- LLM integrations & prompt workflows  
+
+---
+
+## 📊 Highlights
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SolutionsRMe&show_icons=true&theme=radical" alt="GitHub stats"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsRMe&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolutionsRMe&theme=radical" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ## 🌟 A Few Things About Me
-- I prefer building **practical tools** over overengineered ones  
-- I believe **automation should be accessible** to freelancers & small teams  
-- I like breaking things — because it’s the best way to rebuild them stronger  
-- Coffee may or may not be part of my CI/CD pipeline ☕  
+- I prefer **practical tools** over overengineering  
+- Believe **automation should be accessible** to freelancers & small teams  
+- Coffee is definitely part of my CI/CD pipeline ☕  
 
 ---
 
 <p align="center">
-  🌀 Explore more at <a href="https://github.com/Solution-Desk"><b>The Solution Desk</b></a>  
+  💌 <a href="mailto:amber@thesolutiondesk.ca">amber@thesolutiondesk.ca</a> · 🌀 <a href="https://github.com/Solution-Desk"><b>The Solution Desk</b></a>
 </p>
-
-<p align="center">
-  💌 <a href="mailto:amber@thesolutiondesk.ca">amber@thesolutiondesk.ca</a>  
-</p>
-
----
-
-<p align="center">✨ Break things. Fix them. Build them better. ✨</p>
