@@ -60,11 +60,6 @@ Self-taught developer · Automation advocate · Chaos-tamer
 ## 📊 Highlights
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SolutionsRMe&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsRMe&layout=compact&theme=radical" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolutionsRMe&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
