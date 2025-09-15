@@ -1,31 +1,22 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 1 * * *"}]  # daily
+  schedule: [{cron: "0 0 * * *"}] # every day
   workflow_dispatch:
-  push: {branches: ["main"]}
 
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Prefer a PAT in METRICS_TOKEN; falls back to GITHUB_TOKEN
-          token: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: github-metrics.svg
-          base: header, repositories
+          base: header, activity, community, repositories
           config_timezone: America/Toronto
-          config_order: base.header, isocalendar, languages, followup, stars, achievements, notable
+          # Plugins for professional look
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_threshold: 2%
-          plugin_languages_limit: 8
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
           plugin_stars: yes
+          plugin_followup: yes
           plugin_achievements: yes
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
           plugin_notable: yes
