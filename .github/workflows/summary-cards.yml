@@ -1,0 +1,16 @@
+name: Profile Summary Cards
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "13 3 * * *"  # daily at 03:13 UTC
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: SolutionsRMe
+          UTC_OFFSET: -7
+          THEME: radical
