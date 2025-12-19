@@ -1,40 +1,55 @@
 <!-- ───────────────────────────── -->
 <!-- Banner -->
 <p align="center" style="margin-bottom:0;">
-  <img src="https://raw.githubusercontent.com/SolutionsRMe/SolutionsRMe/main/assets/GHprofile.png" 
+  <img src="https://raw.githubusercontent.com/SolutionsRMe/SolutionsRMe/main/assets/GHprofile.png"
        alt="The Solution Desk Banner" width="100%">
 </p>
 
-<!-- Subtle fade shadow under banner -->
 <div style="height:6px;background:linear-gradient(to right,transparent,#4b0082,#8a2be2,transparent);
 border-radius:4px;margin-bottom:1.5rem;"></div>
 
 <h1 align="center">Hi, I’m Amber</h1>
+
 <p align="center">
-  Self-taught Developer · Automation Advocate · Chaos-Tamer<br>
+  Automation-focused developer<br>
   Founder of <strong>The Solution Desk</strong>
 </p>
 
-<!-- Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SolutionsRMe&label=Profile%20Views&color=blueviolet" alt="Profile views">
   <img src="https://img.shields.io/github/followers/SolutionsRMe?label=Followers&style=flat&color=blueviolet" alt="Followers">
 </p>
 
-> I build automation-first tools that make life easier for freelancers and small teams — practical, human-centered, and well-documented.
+---
+
+> I build automation-first tools and CLIs for people who are tired of doing the same thing twice.
 
 ---
 
-## Featured Projects
+## What I Work On
 
-- [**OrganiserPro**](https://github.com/SolutionsRMe/organiser-pro) — modern Linux file organizer & safe deduper  
-- [**AutoHired**](https://github.com/SolutionsRMe/auto-hired) — smart job-search automation helpers  
-- [**Markdown Notes**](https://github.com/SolutionsRMe/markdown-notes) — clean note-taking and snippet management  
-- [**Microdemo Studio**](https://github.com/SolutionsRMe/microdemo-studio) — tiny, repeatable demo setups for quick sharing  
+I design pragmatic systems that reduce repetitive work, cognitive load, and operational friction.  
+My focus is on tools that are:
+
+- **Explicit** — behavior is clear, predictable, and documented  
+- **Reversible** — safe defaults, dry runs, and escape hatches  
+- **Maintainable** — optimized for long-term use, not demos  
+
+Most of my work lives at the intersection of automation, developer tooling, and real-world constraints.
 
 ---
 
-## Core Stack
+## Areas of Focus
+
+- Command-line tools and developer utilities  
+- Automation pipelines and workflow tooling  
+- Lightweight data modeling and local-first systems  
+- CI/CD and release automation  
+- Practical LLM integrations (no hype-driven abstractions)
+
+---
+
+## Tooling I Use Regularly
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white">
@@ -44,30 +59,30 @@ border-radius:4px;margin-bottom:1.5rem;"></div>
   <img src="https://img.shields.io/badge/Docker-0db7ed?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white">
 </p>
 
 ---
 
-## What I Build
+## Philosophy
 
-- CLIs & APIs (Python / Node)  
-- Web and browser automation  
-- Data modeling and lightweight DBs  
-- CI/CD and DevOps workflows  
-- LLM integrations and prompt frameworks  
+- Clarity beats cleverness  
+- Automation should reduce stress, not create it  
+- Quality > velocity > noise  
+- If it can’t survive a bad day, it’s not finished  
+
+Coffee remains an undocumented but critical dependency.
 
 ---
 
-## Highlights
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolutionsRMe&show_icons=true&theme=tokyonight&hide_border=true&line_height=27&card_width=420" height="165" alt="Amber’s GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsRMe&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="165" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolutionsRMe&show_icons=true&theme=tokyonight&hide_border=true&line_height=27&card_width=420" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsRMe&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="165">
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolutionsRMe&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolutionsRMe&theme=tokyo-night&hide_border=true&radius=12">
 </p>
 
 ---
@@ -75,17 +90,9 @@ border-radius:4px;margin-bottom:1.5rem;"></div>
 ## Connect
 
 <p align="center">
-  <a href="https://thesolutiondesk.ca">thesolutiondesk.ca</a> · 
-  <a href="https://www.linkedin.com/in/amber-boudreau-1907a2319">LinkedIn</a> · 
-  <a href="https://orcid.org/0009-0002-1765-437X">ORCID</a> · 
-  <a href="https://github.com/sponsors/SolutionsRMe">Sponsor</a> · 
+  <a href="https://thesolutiondesk.ca">thesolutiondesk.ca</a> ·
+  <a href="https://www.linkedin.com/in/amber-boudreau-1907a2319">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0002-1765-437X">ORCID</a> ·
+  <a href="https://github.com/sponsors/SolutionsRMe">Sponsor</a> ·
   amber@thesolutiondesk.ca
 </p>
-
----
-
-## A Few Things About Me
-
-- Pragmatic > over-engineering  
-- Automation should empower freelancers and small teams  
-- Coffee is definitely part of my CI/CD pipeline  
