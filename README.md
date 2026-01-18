@@ -8,8 +8,6 @@
 <div style="height:6px;background:linear-gradient(to right,transparent,#4b0082,#8a2be2,transparent);
 border-radius:4px;margin-bottom:1.5rem;"></div>
 
-<h1 align="center">Hi, I’m Amber</h1>
-
 <p align="center">
   Automation-focused developer<br>
   Founder of <strong>The Solution Desk</strong>
@@ -75,11 +73,6 @@ Coffee remains an undocumented but critical dependency.
 ---
 
 ## Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SolutionsRMe&show_icons=true&theme=tokyonight&hide_border=true&line_height=27&card_width=420" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolutionsRMe&layout=compact&theme=tokyonight&hide_border=true&card_width=420" height="165">
-</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SolutionsRMe&theme=tokyo-night&hide_border=true&radius=12">
